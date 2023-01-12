@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Git Automation with Husky</h1>
+      <p>Let's get to work...</p>
     </div>
   );
 }
